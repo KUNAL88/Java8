@@ -1,4 +1,4 @@
-package com.kunal.mysupplier;
+package com.kunal.java8_functional_intrf.mysupplier;
 
 import java.util.function.Supplier;
 

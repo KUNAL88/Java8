@@ -1,4 +1,4 @@
-package com.kunal.myconsumer;
+package com.kunal.java8_functional_intrf.myconsumer;
 
 import java.util.ArrayList;
 import java.util.List;

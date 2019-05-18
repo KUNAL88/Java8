@@ -1,4 +1,4 @@
-package com.kunal.mypredicate;
+package com.kunal.java8_functional_intrf.mypredicate;
 
 import java.util.function.Predicate;
 

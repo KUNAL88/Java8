@@ -1,4 +1,4 @@
-package com.kunal.myfunction;
+package com.kunal.java8_functional_intrf.myfunction;
 
 import java.util.function.Function;
 

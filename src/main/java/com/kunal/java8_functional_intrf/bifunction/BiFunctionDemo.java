@@ -24,6 +24,6 @@ public class BiFunctionDemo {
 
        // BiConsumer<>
 
-        
+
     }
 }
